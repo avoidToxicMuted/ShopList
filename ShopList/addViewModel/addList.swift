@@ -48,6 +48,7 @@ struct addList: View {
                             Image(systemName: "calendar")
                                 .resizable()
                                 .frame(width: 17, height: 17, alignment: .center)
+                                .foregroundColor(.white)
                         }
                             
 //                            .border(Color.red)
